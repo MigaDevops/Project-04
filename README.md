@@ -82,6 +82,7 @@ php -v
 ```
 
 **Output**
+
 ![php version](image/phpversion.PNG)
 
 LAMP stack is now fully operational, but before testing the setup with a PHP script, it’s best to set up a proper Apache Virtual Host to hold your website’s files and folders.
