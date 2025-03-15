@@ -29,6 +29,11 @@ You’ll be prompted to confirm Apache’s installation. Confirm by pressing Y, 
 sudo systemctl status apache2
 ```
 ![status apache2](image/step1.PNG)
+
+*   Test Apache's installation by accessing your server’s public IP address in your web browser:
+```
+http://your_server_ip
+```
 ![server1](image/server1dp.PNG)
 
 ### Step 2 — Installing MySQL
